@@ -9,4 +9,5 @@ Rules:
 In the program that I have written, only words between 3-16 of length will be considered.
 
 ![image](https://user-images.githubusercontent.com/54428986/134121711-6025a15d-6e58-4e5e-a33f-c137bdb898f2.png)
+
 In the image above, the word 'PEACE' can be formed. 

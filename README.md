@@ -12,4 +12,4 @@ In the program that I have written, only words between 3-16 of length will be co
 
 In the image above, the word 'PEACE' can be formed. 
 
-The program takes in an input file containing a board and ouputs a list of words that can be formed formed in the board. 
+The program takes in an input file containing a board and ouputs a list of words that can be formed in the board. 
